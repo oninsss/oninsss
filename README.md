@@ -12,7 +12,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,cpp,notion,github,git,vscode,figma,ps,ai,pr)](https://skillicons.dev)
 
-<h3 align = "left"> 📊 Github Streak </h3>
+<h3 align = "left"> 👩🏻‍💻 Github Stats </h3>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oninsss&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" /></div>  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=oninsss&theme=dark)](https://git.io/streak-stats)
 
