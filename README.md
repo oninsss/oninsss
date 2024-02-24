@@ -9,9 +9,11 @@
 ⚡ Fun fact: I have a website portfolio that you can visit <a href = "https://oninsss.netlify.app/">here!</a>
 
 <h2>💻 Tech Stack</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,py,java,cpp,notion,github,git,vscode,figma,ps,ai,pr)](https://skillicons.dev)
 
 <h3 align = "left"> 📊 Github Streak </h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=oninsss&theme=dark)](https://git.io/streak-stats)
 
 <h3 align = "left"> 📩 Connect with me </h3>
